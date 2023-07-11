@@ -1,0 +1,34 @@
+Para verificar o sistema que estás utilizando, entre no terminal, entre no interpretador do python digitando python
+
+Dentro dele, importe o módulo 'os':
+digite 'os.name' + enter
+
+os.listdir() - retorna todos os arquivos que estão dentro do diretório atual
+
+os.getcwd() - Ele vai retornar o diretório atual
+resultado> C:\\Users\\cliente\\Desktop\\python\\automacaopython\\criacao_monitoramento_arquivos_pastas
+
+os.sep - ele ajudar a verificar o separador de endereço, se é barra dupla (windows) ou unica (linux e mac)
+
+os.path.join(os.getcwd() + os.sep + 'nomedoarquivo.raiz')  - Ele monta um caminho completo de um arquivo.
+resultado: 'C:\\Users\\cliente\\Desktop\\python\\automacaopython\\criacao_monitoramento_arquivos_pastas\\instrucoes.txt'
+
+
+os.path.dirname(os.path.join(os.getcwd() + os.sep + 'instrucoes.txt')) - retorna somente o diretório
+
+os.path.basename() - retorna somente o nome do arquivo. Para usar, coloque o caminho em um variável e coloca a variável dentro da...
+..função: exemplo: os.path.basename(caminho)  resultado: 'instrucoes.txt'
+
+os.path.split(variável) - retorna o caminho e o nome do arquivo separadamente em uma tupla
+resultado ('C:\\Users\\cliente\\Desktop\\python\\automacaopython\\criacao_monitoramento_arquivos_pastas', 'instrucoes.txt')
+
+os.getcwd() + os.sep - retorna um diretório anterior (diretório pai)
+
+os.path.exists('nome da pasta ou caminho') - verifica se o diretório existe
+
+os.chdir(nome do diretório) - Ele muda até o diretório desejado
+
+os.chdir(os.pardir) - Aqui ele volta um diretório acima
+
+
+

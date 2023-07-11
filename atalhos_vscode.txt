@@ -1,0 +1,63 @@
+Ctrl + ]
+Esse atalho divide a tela do VsCode em 2, permitindo você a visualizar 2 arquivos ao mesmo tempo.
+
+ 
+Ctrl + ;
+Esse atalho permite a você comentar/descomentar uma linha de código rapidamente, não precisa nem você selecionar ela! (Só se você quiser fazer isso com mais de uma linha).
+
+ 
+Ctrl + `
+Esse atalho abre/fecha o terminal integrado com o VsCode.
+
+ 
+Ctrl + ,
+Esse atalho abre as configurações do usuário.
+
+ 
+
+Ctrl + B
+Esse atalho remove ou adiciona a barra lateral, bem interessante pra quem programa com uma tela pequena ou pra alguém que só quer deixar a tela mais limpa mesmo.
+
+ 
+
+Ctrl + L
+Esse atalho serve pra selecionar uma linha de código rapidamente.
+
+ 
+Ctrl + G
+Esse atalho faz você ir até uma linha específica do seu código (basta você inserir o número dela, ótimo para códigos longos).
+
+ 
+
+Ctrl + P
+Esse atalho é ótimo,  ele pesquisa por um arquivo específico nas pastas do seu projeto sem você precisar ficar abrindo elas.
+
+ 
+Ctrl + D
+Esse atalho substitui partes iguais do código ao mesmo tempo. Selecione a parte que esteja repetida nocódigo, utilize o atalho, e quando você alterar essa parte, as outras partes iguais também serão alteradas.
+
+ 
+
+Ctrl + Tab
+Esse atalho facilita a navegação entre as abas abertas no VsCode.
+
+ 
+
+Ctrl + + ou Ctrl + -
+Esse atalho aumenta/diminui o zoom do editor de código.
+
+ 
+Shift + alt + 0
+Esse atalho alterna o layout dos grupos em vertical e horizontal.
+
+ 
+
+F8
+Esse atalho leva você até o próximo error ou warning.
+
+ 
+F2
+Esse atalho renomeia um símbolo ou variável (em todos os arquivos do projeto)
+
+ 
+
